@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "gbc"
-version = "0.0.1"
+version = "0.0.2"
 description = "A Python gopher client."
 authors = ["Simon de Vlieger <cmdr@supakeen.com>"]
 license = "MIT"
 readme = "README.md"
 keywords = ["gopher", "proxy"]
-repository = "https://github.com/supakeen/gbc"
+repository = "https://github.com/gopherball/gbc"
 classifiers = [
   "License :: OSI Approved :: MIT License",
   "Programming Language :: Python",
